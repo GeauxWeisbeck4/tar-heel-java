@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Tar Heel Java Dev
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Tar Heel Java Dev
+subheading: Filling your cup and creating opportunities for your business!
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Strong Coffee - Beautiful Websites
+  description: You might be wondering - coffee and web development? Well we prove
+    that we can brew the bean and not just talk a big coffee game. Feel free to
+    order coffee and then schedule your consultation once you have a cup of our
+    Tar Heel Java.
+description: By selling my premium brand of coffee, web development, design and
+  marketing services, I prove that I can help you with your business because I
+  sell coffee myself. This helps me achieve my goal of helping create better
+  access to the best brand so of coffee around.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -52,7 +50,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: The best beans in the biz
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
